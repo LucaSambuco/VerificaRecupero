@@ -27,6 +27,7 @@ namespace Monke
         static int numeromacchina = 1;
         static int rigamacchina = 8;
         static int n = 0;
+        //Commento
 
 
 
